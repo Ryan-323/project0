@@ -1,0 +1,22 @@
+p {
+  background-color: red; }
+  p ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+  p li {
+    display: inline-block; }
+  p a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none; }
+
+body {
+  font-size: 100px;
+  text-align: center; }
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue; } }
+
+/*# sourceMappingURL=style2.css.map */
